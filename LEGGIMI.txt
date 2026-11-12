@@ -1,0 +1,3 @@
+DVP - versione con tutti i file nella stessa cartella (nessuna sottocartella).
+Carica TUTTI questi file nella radice del repository GitHub, poi attiva Pages (Settings -> Pages -> branch main, cartella /root).
+Apri l'indirizzo https del sito e installa: iPhone Safari -> Condividi -> Aggiungi alla schermata Home; Android Chrome -> menu -> Installa app.

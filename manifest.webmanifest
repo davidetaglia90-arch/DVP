@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "Design Verification Plan",
+  "short_name": "DVP",
+  "description": "Guida alla creazione del Design Verification Plan a partire dal ciclo produttivo, con dettatura vocale ed esportazione Excel.",
+  "lang": "it",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#1f3a5f",
+  "theme_color": "#1f3a5f",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
